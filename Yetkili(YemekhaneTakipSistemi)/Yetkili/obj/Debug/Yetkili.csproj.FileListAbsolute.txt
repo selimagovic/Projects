@@ -1,0 +1,37 @@
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\Yetkili.exe.config
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\Yetkili.exe.manifest
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\Yetkili.application
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\Yetkili.exe
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\Yetkili.pdb
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\YemekhaneTakipSistemi.dll
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\bin\Debug\YemekhaneTakipSistemi.pdb
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.BakiyeEkle.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.BakiyeSil.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.Properties.Resources.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.Yetkili.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.YetkiliAnaSayfa.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.YetkilininGirisSayfasi.resources
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.csproj.GenerateResource.Cache
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.exe.manifest
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.application
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.exe
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.pdb
+C:\Users\Selim\Documents\Visual Studio 2015\Projects\Yetkili\Yetkili\obj\Debug\Yetkili.csprojResolveAssemblyReference.cache
+I:\Yetkili\Yetkili\bin\Debug\Yetkili.exe.config
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.exe
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.pdb
+I:\Yetkili\Yetkili\bin\Debug\Yetkili.exe.manifest
+I:\Yetkili\Yetkili\bin\Debug\Yetkili.application
+I:\Yetkili\Yetkili\bin\Debug\Yetkili.exe
+I:\Yetkili\Yetkili\bin\Debug\Yetkili.pdb
+I:\Yetkili\Yetkili\bin\Debug\YemekhaneTakipSistemi.pdb
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.csprojResolveAssemblyReference.cache
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.BakiyeEkle.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.BakiyeSil.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.Properties.Resources.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.Yetkili.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.YetkiliAnaSayfa.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.YetkilininGirisSayfasi.resources
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.csproj.GenerateResource.Cache
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.exe.manifest
+I:\Yetkili\Yetkili\obj\Debug\Yetkili.application

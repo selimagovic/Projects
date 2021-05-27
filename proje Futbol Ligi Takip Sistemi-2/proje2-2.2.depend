@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402084090 source:e:\algoritmi 2014\proje2-2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

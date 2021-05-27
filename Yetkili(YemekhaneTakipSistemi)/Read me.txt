@@ -1,0 +1,4 @@
+to use this program first you have to make YemekhaneTakipSistemi as a library 
+(output should be classlibrary or .dll)
+
+Bu program kullanmak icin YemekhaneTakipSistemi Ozelliklerden kutuphane olarak yapmaniz gerekmektedir

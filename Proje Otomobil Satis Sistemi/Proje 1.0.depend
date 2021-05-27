@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384782925 source:d:\algoritmi 2014\proje 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

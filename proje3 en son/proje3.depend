@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1336997972 source:c:\users\selim\desktop\proje 2 files\proje3\ucus.cpp
+	<iostream>
+	"ucus.h"
+
+1337023229 c:\users\selim\desktop\proje 2 files\proje3\ucus.h
+
+1336990366 source:c:\users\selim\desktop\proje 2 files\proje3\yazdir.cpp
+	<iostream>
+	"ucus.h"
+	"yazdir.h"
+
+1337024061 c:\users\selim\desktop\proje 2 files\proje3\yazdir.h
+	"ucus.h"
+
+1336998141 source:c:\users\selim\desktop\proje 2 files\proje3\main.cpp
+	<iostream>
+	"ucus.h"
+	"yazdir.h"
+
+1337021865 c:\users\selim\desktop\proje 2 files\proje3\name.h
+
+1337235722 source:c:\users\pc\desktop\proje3\name.cpp
+	<iostream>
+	"ucus.h"
+	"yazdir.h"
+	"name.h"
+
+1337427187 c:\users\pc\desktop\proje3\ucus.h
+	<iostream>
+	<cstring>
+	"name.h"
+
+1337426456 c:\users\pc\desktop\proje3\yazdir.h
+	<iostream>
+	<iomanip>
+	"ucus.h"
+	"name.h"
+
+1337235722 c:\users\pc\desktop\proje3\name.h
+
+1337426719 source:c:\users\pc\desktop\proje3\ucus.cpp
+	<iostream>
+	"ucus.h"
+	"name.h"
+
+1337427154 source:c:\users\pc\desktop\proje3\yazdir.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"ucus.h"
+	"yazdir.h"
+
+1337426993 source:c:\users\pc\desktop\proje3\main.cpp
+	<iostream>
+	<iomanip>
+	"ucus.h"
+	"yazdir.h"
+
+1337426741 source:c:\users\pc\desktop\proje3\cift_bagli.cpp
+	<iostream>
+	"cift_bagli_liste.h"
+	"ucus.h"
+	"name.h"
+
+1337433431 source:c:\users\selim\desktop\proje3 en son\name.cpp
+	<iostream>
+	"ucus.h"
+	"yazdir.h"
+	"name.h"
+
+1337437060 c:\users\selim\desktop\proje3 en son\ucus.h
+	<cstring>
+	"name.h"
+
+1337429335 c:\users\selim\desktop\proje3 en son\name.h
+	<cstring>
+
+1337436258 c:\users\selim\desktop\proje3 en son\yazdir.h
+	<iostream>
+	<iomanip>
+	"ucus.h"
+	"name.h"
+
+1337436189 source:c:\users\selim\desktop\proje3 en son\ucus.cpp
+	<iostream>
+	<cstring>
+	"ucus.h"
+	"name.h"
+
+1337433188 source:c:\users\selim\desktop\proje3 en son\yazdir.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"ucus.h"
+	"yazdir.h"
+
+1337435479 source:c:\users\selim\desktop\proje3 en son\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"ucus.h"
+	"yazdir.h"
+
+1337433458 source:c:\users\selim\desktop\proje3 en son\cift_bagli.cpp
+	<iostream>
+	"cift_bagli_liste.h"
+	"ucus.h"
+	"name.h"
+

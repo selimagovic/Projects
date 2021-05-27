@@ -1,0 +1,15 @@
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\bin\Debug\Proje2A.exe.config
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\bin\Debug\Proje2A.exe
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\bin\Debug\Proje2A.pdb
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\obj\Debug\Proje2A.exe
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\obj\Debug\Proje2A.pdb
+C:\Users\Selim\documents\visual studio 2013\Projects\Proje2A\Proje2A\obj\Debug\Proje2A.csprojResolveAssemblyReference.cache
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\bin\Debug\Proje2A.exe.config
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\obj\Debug\Proje2A.exe
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\obj\Debug\Proje2A.pdb
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\bin\Debug\Proje2A.exe
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\bin\Debug\Proje2A.pdb
+C:\Users\Erol\Desktop\Proje 2A.1\Proje2A\obj\Debug\Proje2A.csprojResolveAssemblyReference.cache
+C:\Users\Erol\Desktop\Proje 2A\Proje 2A.1\Proje2A\bin\Debug\Proje2A.exe.config
+C:\Users\Erol\Desktop\Proje 2A\Proje 2A.1\Proje2A\obj\Debug\Proje2A.exe
+C:\Users\Erol\Desktop\Proje 2A\Proje 2A.1\Proje2A\obj\Debug\Proje2A.pdb
